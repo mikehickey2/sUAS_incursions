@@ -1,4 +1,4 @@
-Small Unmanned Ariel System (sUAS) Airpace Incursion Data Project
+Small Unmanned Aerial System (sUAS) Airpace Incursion Data Project
 
 Initiated 9/22/2025
 
